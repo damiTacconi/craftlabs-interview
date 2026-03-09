@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Entrypoint/">
+    <Project Path="Modules.Products.Infrastructure/Modules.Products.Infrastructure.csproj" Id="6b1b1dca-5807-4e09-b98d-0927cfb6dc05" />
+    <Project Path="Modules.Products/Modules.Products.csproj" Id="c0a52f1d-b6e9-496a-ae9c-51e74ad37894" />
+    <Project Path="src/Products.WebAPI/Products.WebAPI.csproj" Id="46b8358a-e8d3-4e68-a1ef-e679fa8798f6" />
+  </Folder>
+</Solution>
